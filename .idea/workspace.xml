@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee64f045-0389-4318-b8ef-aa6dbc5717d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/utils/entityUtils.js" />
-      <change type="DELETED" beforePath="C:\wamp\www\cookingWithArnold\media\oven2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\cookingWithArnold\media\oven3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\cookingWithArnold\media\playerArnold.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/oven.png" afterPath="$PROJECT_DIR$/media/oven.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/oven.js" afterPath="$PROJECT_DIR$/lib/game/entities/oven.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/kitchen.js" afterPath="$PROJECT_DIR$/lib/game/levels/kitchen.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
     </list>
     <ignored path="cookingWithArnold.iws" />
@@ -33,55 +29,15 @@
       <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="32" selection-start="3728" selection-end="3728" vertical-scroll-proportion="0.37531173">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entityUtils.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/utils/entityUtils.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="46" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/impact/input.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="277" column="11" selection-start="5640" selection-end="5647" vertical-scroll-proportion="-3.72">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="9" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
+            <state line="150" column="75" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.41022444">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1082#1336#0" expanded="false" />
+                <element signature="e#1383#1706#0" expanded="false" />
+                <element signature="e#6154#7024#0" expanded="false" />
+                <element signature="e#7068#8208#0" expanded="false" />
+                <element signature="e#8249#8945#0" expanded="false" />
+                <element signature="e#8994#10074#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kitchen.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/levels/kitchen.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="1982" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="talkingHead.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/talkingHead.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="30" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -90,6 +46,15 @@
         <entry file="file://$PROJECT_DIR$/lib/game/entities/oven.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="31" column="58" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -109,8 +74,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/game/entities/oven.js" />
-        <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/utils/entityUtils.js" />
+        <option value="$PROJECT_DIR$/lib/game/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/game/entities/gore.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
       </list>
     </option>
@@ -251,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="levels" />
+              <option name="myItemId" value="entities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -350,29 +317,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/oven.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="56" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/impact/animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="33" selection-start="1910" selection-end="1910" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/levels/kitchen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -382,9 +326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/levels/dorm1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/talkingHead.js">
@@ -396,16 +338,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/levels/dorm1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="0.10625">
-          <folding />
-        </state>
+        <state line="5" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="0.10625" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="33" selection-start="1910" selection-end="1910" vertical-scroll-proportion="0.8327183">
-          <folding />
-        </state>
+        <state line="100" column="33" selection-start="1910" selection-end="1910" vertical-scroll-proportion="0.8327183" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/impact.js">
@@ -415,16 +353,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/oven.js">
+    <entry file="file://$PROJECT_DIR$/media/blood.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="58" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+        <state line="32" column="30" selection-start="651" selection-end="651" vertical-scroll-proportion="0.68948036">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/talkingHead.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="30" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.0">
+        <state line="63" column="30" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.79141104">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/oven.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="58" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -438,31 +388,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/input.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="277" column="11" selection-start="5640" selection-end="5647" vertical-scroll-proportion="-3.72">
+        <state line="277" column="11" selection-start="5640" selection-end="5647" vertical-scroll-proportion="0.14478527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/utils/entityUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="46" selection-start="179" selection-end="179" vertical-scroll-proportion="0.14601228">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="9" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/utils/entityUtils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="46" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="32" selection-start="3728" selection-end="3728" vertical-scroll-proportion="0.37531173">
-          <folding />
+        <state line="150" column="75" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.41022444">
+          <folding>
+            <element signature="e#1082#1336#0" expanded="false" />
+            <element signature="e#1383#1706#0" expanded="false" />
+            <element signature="e#6154#7024#0" expanded="false" />
+            <element signature="e#7068#8208#0" expanded="false" />
+            <element signature="e#8249#8945#0" expanded="false" />
+            <element signature="e#8994#10074#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
