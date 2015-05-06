@@ -12,14 +12,24 @@
 			font-size: 12pt;
 		}
 		
-		#canvas {
-			position: absolute;
-			left: 0;
-			right: 0;
-			top: 0;
-			bottom: 0;
-			margin: auto;
-			border: 2px solid #555;
+		canvas {
+			border: 2px solid #555; 
+			padding-left: 0;
+		    padding-right: 0;
+		    margin-left: auto;
+		    margin-right: auto;
+		    display: block;
+		    width: 640px;
+		}
+
+		.deployment-status {
+			margin: 50px auto;
+			width: 100%;
+			text-align: center;
+		}
+
+		.game-window {
+			margin: 50px auto 20px auto;
 		}
 	</style>
 
@@ -27,7 +37,14 @@
 	<script type="text/javascript" src="lib/game/main.js"></script>
 </head>
 <body>
-	<canvas id="canvas"></canvas>
-	<a href="http://dploy.io"><img src="https://grawlix.dploy.io/badge/56046447943360/23918.png" alt="Deployment status from dploy.io"></a>
+	<div class="deployment-status">
+		<a href="http://dploy.io">
+			<img src="https://grawlix.dploy.io/badge/56046447943360/23918.png" 
+				alt="Deployment status from dploy.io">
+		</a>
+	</div>
+	<div class="game-window"> 
+		<canvas id="canvas"></canvas>
+	</div>
 </body>
 </html>
